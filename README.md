@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+### This project is hosted on Vercel
+https://project-v2-o4wbxv3ud-pathakjiops-projects.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
